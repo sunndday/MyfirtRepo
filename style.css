@@ -1,0 +1,7 @@
+section p {
+    border:solid 1px black
+}
+section>p{
+    background-color:blueviolet;
+
+}

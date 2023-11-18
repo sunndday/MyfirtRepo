@@ -1,0 +1,18 @@
+#box{
+    background-color:deepskyblue;
+    width: 300px;
+    padding: 20px;
+    border-radius: 30px;
+    border: 10px solid skyblue;
+    text-align:center;
+    color:aliceblue;
+}
+
+#desc {
+    font-size: 20px;
+    padding-bottom : 10px;
+}
+
+#name {
+    font-size: 40px;
+}

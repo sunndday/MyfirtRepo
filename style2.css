@@ -1,0 +1,43 @@
+#margin{
+    background-color: deeppink;
+}
+#width{
+    width: 500px;
+    height:500px;
+    background-color:aqua;
+    color:aliceblue;
+    padding:100px 50px 10px;
+    margin: 10px 20px 60px 50px;
+    border:10px dashed indigo;
+    box-sizing: border-box;
+    overflow-y:scroll;
+    border-radius:50px;
+    border-top-left-radius:30px;
+}
+
+#image{
+    width:500px;
+    height:500px;
+    background-image:url"https://paullabworkspace.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F579fe283-28aa-489d-ae65-d683304becfc%2Fef958fe9-4577-4867-ad07-a0d358be3cd1%2FChilli.jpg?table=block&id=2783981d-a245-4905-8aab-16a56ba347cf&spaceId=579fe283-28aa-489d-ae65-d683304becfc&width=1000&userId=&cache=v2";
+    background-size:cover;
+    box-shadow: box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+#font{
+    color:rgb(red, green, blue)
+    color:rgba(0, 0, 0, 0.3)
+    font-size 32px;
+    font-size 2rem
+
+}
+
+body{
+    font-family:Pretendard-Regular, "Times New Roman"
+}
+
+#align{
+    width:300px;
+    height:300px;
+    background-color:aquamarine;
+    text-align: right;
+}
